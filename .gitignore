@@ -1,0 +1,7 @@
+# Generated run transcripts
+ADReconBurst_*.log
+ADReconScattered_*.log
+*.log
+
+# Scratch / temp
+reconscatter_*/
